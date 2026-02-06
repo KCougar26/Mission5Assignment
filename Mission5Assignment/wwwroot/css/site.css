@@ -1,0 +1,39 @@
+/* Custom Country Theme */
+body {
+  background-color: #fdf5e6; /* Old Lace - a soft, rustic off-white */
+  color: #4b2c20; /* Dark brown for text instead of harsh black */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Make the headers look a bit more "Western" */
+h1, h2, h3 {
+  color: #8b4513; /* Saddle Brown */
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: bold;
+}
+
+/* Style the buttons to look like leather/denim */
+.btn-primary {
+  background-color: #8b4513 !important; /* Leather Brown */
+  border-color: #5d2e0a !important;
+}
+
+.btn-primary:hover {
+  background-color: #5d2e0a !important;
+}
+
+/* Add a wooden-style border to your hobby images */
+.hobby-image {
+  border: 8px solid #a0522d; /* Sienna */
+  padding: 5px;
+  background-color: white;
+  box-shadow: 5px 5px 15px rgba(0,0,0,0.3);
+  margin: 10px;
+}
+
+/* Style the calculator card */
+.card {
+  border: 2px solid #8b4513;
+  background-color: #fff9f0;
+}
