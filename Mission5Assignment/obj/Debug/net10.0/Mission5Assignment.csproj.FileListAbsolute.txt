@@ -21,7 +21,6 @@
 /Users/kathryn/RiderProjects/Mission5Assignment/Mission5Assignment/obj/Debug/net10.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/kathryn/RiderProjects/Mission5Assignment/Mission5Assignment/obj/Debug/net10.0/scopedcss/bundle/Mission5Assignment.styles.css
 /Users/kathryn/RiderProjects/Mission5Assignment/Mission5Assignment/obj/Debug/net10.0/scopedcss/projectbundle/Mission5Assignment.bundle.scp.css
-/Users/kathryn/RiderProjects/Mission5Assignment/Mission5Assignment/obj/Debug/net10.0/compressed/y5q2nl4mgf-{0}-7xrhh2xxjy-7xrhh2xxjy.gz
 /Users/kathryn/RiderProjects/Mission5Assignment/Mission5Assignment/obj/Debug/net10.0/compressed/v7wikwuc27-{0}-r9u7zhrhi6-r9u7zhrhi6.gz
 /Users/kathryn/RiderProjects/Mission5Assignment/Mission5Assignment/obj/Debug/net10.0/compressed/qzwta2tyz2-{0}-fr7q2aak1r-fr7q2aak1r.gz
 /Users/kathryn/RiderProjects/Mission5Assignment/Mission5Assignment/obj/Debug/net10.0/compressed/u90ifnxaz9-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -96,3 +95,5 @@
 /Users/kathryn/RiderProjects/Mission5Assignment/Mission5Assignment/obj/Debug/net10.0/Mission5Assignment.genruntimeconfig.cache
 /Users/kathryn/RiderProjects/Mission5Assignment/Mission5Assignment/obj/Debug/net10.0/ref/Mission5Assignment.dll
 /Users/kathryn/RiderProjects/Mission5Assignment/Mission5Assignment/obj/Debug/net10.0/compressed/c6iyl1adxa-{0}-c05i5nqmst-c05i5nqmst.gz
+/Users/kathryn/RiderProjects/Mission5Assignment/Mission5Assignment/obj/Debug/net10.0/Mission5Assignment.sourcelink.json
+/Users/kathryn/RiderProjects/Mission5Assignment/Mission5Assignment/obj/Debug/net10.0/compressed/y5q2nl4mgf-{0}-j2rmxeddyv-j2rmxeddyv.gz

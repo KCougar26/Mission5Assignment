@@ -6,16 +6,4 @@
         <ImplicitUsings>enable</ImplicitUsings>
     </PropertyGroup>
 
-    <ItemGroup>
-      <Content Include="..\..\..\Downloads\favicon_io\favicon.ico">
-        <Link>wwwroot\favicon.ico</Link>
-      </Content>
-      <Content Include="..\..\..\Downloads\reddress.jpeg">
-        <Link>wwwroot\reddress.jpeg</Link>
-      </Content>
-      <Content Include="..\..\..\Downloads\swingdancing.jpeg">
-        <Link>wwwroot\swingdancing.jpeg</Link>
-      </Content>
-    </ItemGroup>
-
 </Project>
